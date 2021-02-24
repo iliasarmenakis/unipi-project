@@ -1,5 +1,5 @@
 import random 
-n=int(input('> '))
+n=int(input('give n '))
 y=0
 n1=0 
 n2=1
